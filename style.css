@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    ;
+}
+
+/* heading */
+
+.heading{
+    text-align: ;
+    background-color: #00235B;
+    height: 700px;
+    /* clip-path: circle(700px at 50% 0px); */
+}
+.ball1{
+    height: 250px;
+    position: ;
+    padding-left: 10%;
+
+}
+.ball2{
+    height: 150px;
+    display: block;
+    right: 10%;
+    padding-left: 80%;
+
+}
+.ball3{
+    height: 80px;
+    display: block;
+    padding-left: 10%;
+}
+
+.heading h1{
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: 20px;
+    margin:0;
+    
+    
+}
+
+.heading h4{
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: right;
+    padding-right: 5%;
+    font-size: small;
+    margin: 0;
+    
+}
+.heading-content{
+    width: 50%;
+    text-align: right;
+    margin-left: 20%;
+}
+
+                              /* schooling */
+
+                              /* interval */
+.schooling{
+    text-align: left;
+    background-color: #BAD7E9;
+    
+    padding: 5% 15%;
+    
+}
+.school_img{
+    height: 130%;
+    width: 130%;
+    margin:0;
+    object-fit: contain;
+    /* float: left; */
+
+}
+.schooling h1{
+    color: #3A3C30;;
+    text-align: center;
+    margin: 0;
+    
+    font-size: 10%;
+}
+.schooling_interval{
+    color: #2f380d;
+    
+}
+
+.schooling_interval_content_box{
+    padding-top: 5%;
+}
+
+
+                              /* achievent */
+
+.sports_img{
+    height: 300px;
+    
+}
+
+/* .kool_img
+{
+    position:absolute;
+    height:100px;
+    width:100px;
+    transform: translate(200px,300px);
+    background-color: aqua;
+    border-radius: 60px;
+    outline: #e27bf4 solid 1px;
+    outline-offset: 29px;
+    padding:50px;
+    margin:10px;
+    
+    background-image:linear-gradient(to bottom right,#e27bf4,rgb(62, 62, 225))
+} */
+
+/* kota */
+.kota{
+    background-color: #EB455F;
+    height: 700px;
+}
+.kota img{
+    height: 500px;
+}
+.nerd{
+    height: 600px;
+}
+.kota h1{
+    color: #006B68;
+    font-size: 3rem;
+}
+
+/* college */
+.college{
+    background-color: #FCFFE7;
+    height: 800px;
+}
+
+/* contact */
+.contact{
+    background-color: #222222;
+    height: 300px;
+}
+.contact h5{
+    color: #fff;
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.contact div{
+    display: inline-block;
+}
